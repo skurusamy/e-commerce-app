@@ -1,0 +1,18 @@
+"/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentID.swift":
+  diagnostics: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.dia"
+  object: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.o"
+  swift-dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.swiftdeps"
+  dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.d"
+  const-values: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentID.swiftconstvalues"
+"/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/DocumentReference+Codable.swift":
+  swift-dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.swiftdeps"
+  dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.d"
+  const-values: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.swiftconstvalues"
+  object: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.o"
+  diagnostics: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/DocumentReference+Codable.dia"
+"/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/CollectionReference+WriteEncodable.swift":
+  const-values: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.swiftconstvalues"
+  object: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.o"
+  dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.d"
+  swift-dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.swiftdeps"
+  diagnostics: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/x86_64/CollectionReference+WriteEncodable.dia"

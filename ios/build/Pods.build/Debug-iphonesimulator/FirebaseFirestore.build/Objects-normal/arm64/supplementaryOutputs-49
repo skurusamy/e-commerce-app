@@ -1,0 +1,18 @@
+"/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/ServerTimestamp.swift":
+  diagnostics: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.dia"
+  swift-dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftdeps"
+  dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.d"
+  object: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.o"
+  const-values: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/ServerTimestamp.swiftconstvalues"
+"/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/SwiftHeaderWorkaround.swift":
+  diagnostics: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.dia"
+  dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.d"
+  object: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.o"
+  const-values: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftconstvalues"
+  swift-dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/SwiftHeaderWorkaround.swiftdeps"
+"/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestore/Firestore/Swift/Source/Codable/Timestamp+Codable.swift":
+  const-values: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftconstvalues"
+  swift-dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.swiftdeps"
+  object: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.o"
+  dependencies: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.d"
+  diagnostics: "/Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/FirebaseFirestore.build/Objects-normal/arm64/Timestamp+Codable.dia"

@@ -1,0 +1,21 @@
+dependencies: \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/GTMAppAuth.build/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/GoogleSignIn.build/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDGoogleUser.m \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDGoogleUser.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/usr/include/TargetConditionals.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/GTMSessionFetcher.build/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDGoogleUser_Private.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/build/Pods.build/Debug-iphonesimulator/AppAuth.build/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDConfiguration.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDSignIn.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDAuthentication.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDEMMSupport.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDProfileData_Private.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDProfileData.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignIn_Private.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDSignInPreferences.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/GIDToken_Private.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/GoogleSignIn/GoogleSignIn/Sources/Public/GoogleSignIn/GIDToken.h

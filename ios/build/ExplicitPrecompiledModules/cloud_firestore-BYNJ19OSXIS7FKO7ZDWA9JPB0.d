@@ -1,0 +1,23 @@
+moduledependenciestarget: \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Modules/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/FirebaseFirestore/FirebaseFirestore.framework/Modules/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/cloud_firestore-umbrella.h \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/UIKit.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/System/Library/Frameworks/Foundation.framework/Modules/module.modulemap \
+  /Applications/Xcode.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator18.2.sdk/usr/include/TargetConditionals.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FirestorePigeonParser.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FirestoreMessages.g.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTDocumentSnapshotStreamHandler.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/Flutter.framework/Modules/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTFirebaseFirestoreExtension.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTFirebaseFirestoreReader.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTFirebaseFirestoreUtils.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTFirebaseFirestoreWriter.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTLoadBundleStreamHandler.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTQuerySnapshotStreamHandler.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTSnapshotsInSyncStreamHandler.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTTransactionStreamHandler.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/CustomPigeonHeaderFirestore.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/cloud_firestore/cloud_firestore.framework/Headers/FLTFirebaseFirestorePlugin.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Modules/module.modulemap \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/firebase_core/firebase_core.framework/Headers/FLTFirebasePlugin.h

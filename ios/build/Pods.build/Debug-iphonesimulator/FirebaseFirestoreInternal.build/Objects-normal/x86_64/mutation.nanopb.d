@@ -1,0 +1,37 @@
+dependencies: \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/firestore/local/mutation.nanopb.cc \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/firestore/local/mutation.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/nanopb/pb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/write.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/bloom_filter.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/common.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/protobuf/timestamp.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/firestore/v1/document.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/protobuf/struct.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/Protos/nanopb/google/type/latlng.nanopb.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/ios/Pods/FirebaseFirestoreInternal/Firestore/core/src/nanopb/pretty_printing.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/str_cat.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/attributes.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/config.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/options.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/policy_checks.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/nullability.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/nullability_impl.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/meta/type_traits.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/port.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/optimization.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/has_absl_stringify.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/string_view.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/throw_delegate.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/macros.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/resize_uninitialized.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/internal/stringify_sink.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/strings/numbers.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/endian.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/casts.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/identity.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/base/internal/unaligned_access.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/bits.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/internal/bits.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128.h \
+  /Users/skurusamy/Documents/AndroidStudioProjects/e_commerce_app/build/ios/Debug-iphonesimulator/abseil/absl.framework/Headers/numeric/int128_have_intrinsic.inc
