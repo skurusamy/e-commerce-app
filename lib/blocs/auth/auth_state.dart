@@ -32,3 +32,10 @@ class RegisterSuccess extends AuthState {
 }
 
 class PasswordResetEmailSent extends AuthState {}
+
+class AuthAuthenticated extends AuthState {
+  final UserModel user;
+  AuthAuthenticated(this.user);
+}
+
+class AuthUnauthenticated extends AuthState {}

@@ -44,3 +44,5 @@ class ForgotPasswordRequested extends AuthEvent {
   ForgotPasswordRequested(this.email);
 }
 
+class CheckAuthStatus extends AuthEvent {}
+

@@ -63,6 +63,7 @@ class LoginWithEmailScreen extends StatelessWidget {
                 onPressed: () {
                   if (_loginFormKey.currentState!.saveAndValidate()) {
                     var formData = _loginFormKey.currentState?.value;
+                    var email = formData?['email'];
                     context.read<AuthBloc>().add(
                           SignInWithEmail(
                               formData?['email'], formData?['password']),

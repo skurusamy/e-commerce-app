@@ -4,9 +4,9 @@ import 'package:equatable/equatable.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 import '../../../services/auth_service.dart';
+import '../../models/user_model.dart';
 
 part 'auth_event.dart';
-
 part 'auth_state.dart';
 
 class AuthBloc extends Bloc<AuthEvent, AuthState> {
@@ -14,6 +14,7 @@ class AuthBloc extends Bloc<AuthEvent, AuthState> {
   final FirestoreService _firestoreService;
 
   AuthBloc(this._authService, this._firestoreService) : super(AuthInitial()) {
+
     on<SignUpWithEmail>((event, emit) async {
       emit(AuthLoading());
       try {

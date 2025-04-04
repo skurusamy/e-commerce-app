@@ -9,7 +9,8 @@ class AuthService {
   // Email & Password Sign Up
   Future<User?> signUpWithEmail(String email, String password) async {
     try {
-      UserCredential userCredential = await _auth.createUserWithEmailAndPassword(
+      UserCredential userCredential = await _auth
+          .createUserWithEmailAndPassword(
           email: email, password: password);
       User? user = userCredential.user;
       if (user != null && !user.emailVerified) {
@@ -45,14 +46,16 @@ class AuthService {
   Future<User?> signInWithGoogle() async {
     try {
       final GoogleSignInAccount? googleUser = await _googleSignIn.signIn();
-      final GoogleSignInAuthentication googleAuth = await googleUser!.authentication;
+      final GoogleSignInAuthentication googleAuth = await googleUser!
+          .authentication;
 
       final AuthCredential credential = GoogleAuthProvider.credential(
         accessToken: googleAuth.accessToken,
         idToken: googleAuth.idToken,
       );
 
-      UserCredential userCredential = await _auth.signInWithCredential(credential);
+      UserCredential userCredential = await _auth.signInWithCredential(
+          credential);
       return userCredential.user;
     } catch (e) {
       print("Google Sign-In Error: $e");
@@ -61,7 +64,8 @@ class AuthService {
   }
 
   // Phone OTP Authentication
-  Future<void> signInWithPhone(String phoneNumber, Function(String) codeSent) async {
+  Future<void> signInWithPhone(String phoneNumber,
+      Function(String) codeSent) async {
     await _auth.verifyPhoneNumber(
       phoneNumber: phoneNumber,
       verificationCompleted: (PhoneAuthCredential credential) async {
@@ -84,7 +88,8 @@ class AuthService {
         verificationId: verificationId,
         smsCode: smsCode,
       );
-      UserCredential userCredential = await _auth.signInWithCredential(credential);
+      UserCredential userCredential = await _auth.signInWithCredential(
+          credential);
       return userCredential.user;
     } catch (e) {
       print("OTP Verification Failed: $e");
@@ -101,18 +106,30 @@ class AuthService {
   }
 
   // Check User Login Status
-  Future<bool> isUserLoggedIn() async {
+  Future<Map<String, dynamic>> isUserLoggedIn() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
-    return prefs.getBool("isLoggedIn") ?? false;
+    bool isLoggedIn = prefs.getBool("isLoggedIn") ?? false;
+    String? email = prefs.getString("email");
+    return {"isLoggedIn": isLoggedIn, "email": email};
   }
 
   // Save Login State
   Future<void> saveLoginState() async {
     SharedPreferences prefs = await SharedPreferences.getInstance();
     await prefs.setBool("isLoggedIn", true);
+    await prefs.setString("email", _auth.currentUser!.email!);
   }
 
   Future<void> sendPasswordResetEmail({required String email}) async {
     await _auth.sendPasswordResetEmail(email: email);
+  }
+
+  String getCurrentUserEmail()  {
+    User? user = _auth.currentUser;
+    if (user != null) {
+      return user.email!;
+    } else {
+      throw Exception('No user is currently signed in.');
+    }
   }
 }
